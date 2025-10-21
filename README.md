@@ -1,4 +1,4 @@
 # DSA-PROBLEMS-
-# DSA-PROBLEMS-
-This my first DSA git repository
+This is my first DSA git repository
 <br>
+Author - Abhishek Kumar
